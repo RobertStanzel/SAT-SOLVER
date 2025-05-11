@@ -1,0 +1,5017 @@
+{
+    "results": [
+        {
+            "filename": "hard0.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard1.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard2.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard3.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard4.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard5.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard6.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard7.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard8.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard9.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard10.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard11.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard12.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard13.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard14.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard15.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard16.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard17.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard18.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard19.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard20.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard21.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard22.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard23.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard24.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard25.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard26.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard27.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard28.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard29.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard30.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard31.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard32.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard33.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard34.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard35.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard36.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard37.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard38.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard39.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard40.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard41.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard42.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard43.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard44.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard45.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard46.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard47.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard48.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard49.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard50.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard51.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard52.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard53.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard54.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard55.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard56.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard57.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard58.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard59.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard60.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard61.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard62.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard63.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard64.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard65.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard66.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard67.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard68.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard69.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard70.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard71.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard72.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard73.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard74.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard75.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard76.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard77.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard78.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard79.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard80.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard81.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard82.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard83.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard84.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard85.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard86.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard87.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard88.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard89.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard90.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard91.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard92.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard93.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard94.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard95.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard96.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard97.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard98.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard99.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard100.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard101.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard102.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard103.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard104.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard105.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard106.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard107.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard108.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard109.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard110.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard111.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard112.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard113.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard114.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard115.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard116.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard117.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard118.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard119.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard120.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard121.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard122.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard123.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard124.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard125.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard126.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard127.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard128.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard129.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard130.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard131.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard132.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard133.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard134.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard135.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard136.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard137.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard138.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard139.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard140.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard141.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard142.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard143.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard144.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard145.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard146.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard147.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard148.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard149.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard150.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard151.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard152.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard153.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard154.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard155.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard156.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard157.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard158.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard159.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard160.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard161.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard162.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard163.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard164.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard165.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard166.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard167.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard168.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard169.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard170.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard171.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard172.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard173.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard174.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard175.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard176.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard177.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard178.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard179.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard180.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard181.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard182.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard183.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard184.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard185.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard186.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard187.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard188.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard189.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard190.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard191.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard192.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard193.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard194.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard195.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard196.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard197.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard198.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard199.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard200.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard201.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard202.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard203.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard204.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard205.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard206.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard207.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard208.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard209.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard210.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard211.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard212.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard213.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard214.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard215.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard216.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard217.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard218.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard219.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard220.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard221.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard222.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard223.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard224.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard225.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard226.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard227.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard228.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard229.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard230.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard231.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard232.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard233.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard234.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard235.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard236.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard237.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard238.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard239.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard240.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard241.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard242.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard243.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard244.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard245.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard246.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard247.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard248.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard249.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard250.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard251.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard252.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard253.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard254.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard255.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard256.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard257.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard258.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard259.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard260.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard261.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard262.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard263.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard264.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard265.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard266.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard267.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard268.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard269.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard270.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard271.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard272.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard273.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard274.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard275.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard276.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard277.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard278.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard279.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard280.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard281.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard282.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard283.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard284.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard285.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard286.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard287.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard288.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard289.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard290.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard291.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard292.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard293.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard294.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard295.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard296.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard297.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard298.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard299.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard300.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard301.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard302.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard303.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard304.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard305.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard306.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard307.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard308.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard309.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard310.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard311.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard312.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard313.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard314.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard315.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard316.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard317.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard318.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard319.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard320.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard321.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard322.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard323.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard324.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard325.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard326.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard327.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard328.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard329.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard330.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard331.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard332.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard333.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard334.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard335.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard336.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard337.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard338.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard339.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard340.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard341.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard342.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard343.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard344.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard345.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard346.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard347.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard348.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard349.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard350.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard351.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard352.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard353.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard354.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard355.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard356.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard357.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard358.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard359.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard360.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard361.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard362.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard363.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard364.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard365.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard366.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard367.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard368.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard369.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard370.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard371.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard372.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard373.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard374.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard375.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard376.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard377.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard378.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard379.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard380.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard381.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard382.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard383.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard384.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard385.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard386.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard387.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard388.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard389.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard390.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard391.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard392.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard393.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard394.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard395.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard396.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard397.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard398.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard399.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard400.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard401.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard402.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard403.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard404.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard405.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard406.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard407.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard408.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard409.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard410.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard411.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard412.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard413.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard414.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard415.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard416.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard417.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard418.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard419.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard420.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard421.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard422.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard423.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard424.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard425.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard426.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard427.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard428.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard429.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard430.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard431.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard432.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard433.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard434.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard435.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard436.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard437.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard438.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard439.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard440.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard441.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard442.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard443.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard444.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard445.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard446.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard447.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard448.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard449.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard450.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard451.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard452.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard453.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard454.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard455.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard456.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard457.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard458.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard459.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard460.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard461.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard462.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard463.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard464.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard465.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard466.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard467.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard468.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard469.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard470.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard471.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard472.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard473.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard474.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard475.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard476.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard477.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard478.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard479.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard480.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard481.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard482.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard483.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard484.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard485.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard486.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard487.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard488.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard489.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard490.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard491.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard492.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard493.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard494.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard495.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard496.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard497.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard498.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard499.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard500.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard501.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard502.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard503.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard504.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard505.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard506.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard507.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard508.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard509.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard510.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard511.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard512.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard513.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard514.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard515.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard516.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard517.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard518.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard519.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard520.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard521.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard522.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard523.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard524.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard525.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard526.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard527.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard528.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard529.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard530.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard531.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard532.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard533.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard534.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard535.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard536.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard537.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard538.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard539.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard540.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard541.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard542.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard543.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard544.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard545.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard546.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard547.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard548.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard549.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard550.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard551.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard552.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard553.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard554.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard555.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard556.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard557.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard558.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard559.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard560.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard561.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard562.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard563.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard564.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard565.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard566.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard567.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard568.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard569.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard570.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard571.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard572.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard573.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard574.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard575.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard576.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard577.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard578.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard579.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard580.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard581.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard582.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard583.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard584.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard585.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard586.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard587.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard588.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard589.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard590.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard591.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard592.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard593.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard594.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard595.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard596.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard597.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard598.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard599.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard600.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard601.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard602.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard603.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard604.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard605.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard606.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard607.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard608.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard609.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard610.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard611.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard612.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard613.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard614.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard615.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard616.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard617.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard618.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard619.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard620.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard621.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard622.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard623.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard624.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard625.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard626.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard627.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard628.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard629.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard630.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard631.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard632.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard633.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard634.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard635.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard636.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard637.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard638.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard639.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard640.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard641.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard642.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard643.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard644.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard645.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard646.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard647.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard648.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard649.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard650.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard651.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard652.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard653.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard654.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard655.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard656.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard657.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard658.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard659.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard660.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard661.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard662.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard663.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard664.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard665.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard666.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard667.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard668.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard669.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard670.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard671.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard672.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard673.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard674.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard675.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard676.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard677.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard678.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard679.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard680.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard681.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard682.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard683.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard684.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard685.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard686.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard687.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard688.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard689.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard690.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard691.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard692.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard693.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard694.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard695.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard696.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard697.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard698.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard699.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard700.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard701.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard702.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard703.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard704.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard705.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard706.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard707.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard708.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard709.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard710.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard711.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard712.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard713.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "hard714.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard715.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard716.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard717.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard718.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard719.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard720.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard721.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard722.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard723.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard724.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard725.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard726.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard727.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard728.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard729.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard730.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard731.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard732.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard733.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard734.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard735.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard736.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard737.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard738.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard739.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard740.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard741.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard742.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard743.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard744.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard745.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard746.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard747.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard748.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard749.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard750.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard751.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard752.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard753.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard754.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard755.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard756.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard757.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard758.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard759.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard760.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard761.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard762.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard763.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard764.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard765.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard766.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard767.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard768.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard769.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard770.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard771.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard772.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard773.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard774.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard775.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard776.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard777.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard778.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard779.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard780.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard781.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard782.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard783.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard784.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard785.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard786.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard787.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard788.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard789.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard790.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard791.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard792.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard793.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard794.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard795.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard796.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard797.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "hard798.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard799.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard800.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard801.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard802.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard803.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard804.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard805.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard806.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard807.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard808.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard809.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard810.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard811.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard812.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard813.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard814.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard815.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard816.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard817.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard818.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard819.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard820.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard821.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard822.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard823.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard824.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard825.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard826.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard827.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard828.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard829.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard830.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard831.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard832.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard833.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard834.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard835.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard836.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard837.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard838.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard839.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard840.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard841.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard842.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard843.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard844.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard845.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard846.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard847.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard848.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard849.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard850.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard851.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard852.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard853.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard854.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard855.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard856.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard857.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard858.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard859.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard860.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard861.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard862.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard863.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard864.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard865.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard866.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard867.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard868.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard869.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard870.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard871.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard872.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard873.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard874.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard875.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard876.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard877.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard878.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard879.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard880.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard881.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard882.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard883.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard884.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard885.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard886.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard887.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard888.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard889.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard890.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard891.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard892.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard893.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard894.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard895.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard896.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard897.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard898.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard899.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard900.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard901.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard902.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard903.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard904.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard905.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard906.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard907.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard908.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard909.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard910.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard911.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard912.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard913.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard914.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard915.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard916.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard917.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard918.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard919.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard920.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard921.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard922.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard923.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard924.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard925.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard926.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard927.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard928.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard929.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard930.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard931.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard932.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard933.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard934.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard935.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard936.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard937.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard938.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard939.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard940.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard941.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard942.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard943.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard944.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard945.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard946.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard947.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard948.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard949.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard950.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard951.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard952.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard953.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard954.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard955.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard956.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard957.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard958.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard959.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard960.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard961.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard962.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard963.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard964.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard965.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard966.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard967.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.09
+        },
+        {
+            "filename": "hard968.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard969.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard970.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard971.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard972.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard973.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard974.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard975.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard976.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard977.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard978.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard979.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard980.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard981.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard982.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard983.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard984.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard985.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard986.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard987.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "hard988.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard989.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard990.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard991.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard992.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard993.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard994.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard995.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard996.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard997.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard998.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "hard999.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "hard1000.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        }
+    ],
+    "summary": {
+        "SATISFIABLE": 502,
+        "UNSATISFIABLE": 499,
+        "TIMEOUT": 0,
+        "total_files": 1001,
+        "average_time": 0.1,
+        "total_time": 103.25
+    }
+}

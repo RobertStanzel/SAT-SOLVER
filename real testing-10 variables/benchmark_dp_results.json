@@ -1,0 +1,512 @@
+{
+    "results": [
+        {
+            "filename": "example_1.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_2.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_3.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "example_4.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "example_5.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_6.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_7.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_8.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_9.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_10.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_11.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_12.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_13.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_14.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_15.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_16.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_17.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_18.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_19.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_20.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_21.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_22.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_23.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_24.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_25.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_26.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_27.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_28.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_29.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_30.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_31.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_32.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_33.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_34.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_35.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_36.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_37.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_38.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_39.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_40.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_41.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_42.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_43.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_44.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_45.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_46.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_47.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_48.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_49.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_50.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_51.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_52.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_53.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_54.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_55.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_56.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_57.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_58.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_59.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_60.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_61.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_62.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_63.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_64.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_65.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_66.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_67.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_68.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_69.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_70.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_71.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_72.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_73.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_74.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_75.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_76.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_77.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_78.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_79.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_80.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_81.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_82.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_83.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_84.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_85.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_86.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_87.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_88.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_89.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_90.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_91.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_92.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_93.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "example_94.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_95.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_96.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_97.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "example_98.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "example_99.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "example_100.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.1
+        }
+    ],
+    "summary": {
+        "SATISFIABLE": 48,
+        "UNSATISFIABLE": 52,
+        "TIMEOUT": 0,
+        "total_files": 100,
+        "average_time": 0.11,
+        "total_time": 10.7
+    }
+}

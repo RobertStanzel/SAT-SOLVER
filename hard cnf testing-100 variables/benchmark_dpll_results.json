@@ -1,0 +1,5012 @@
+{
+    "results": [
+        {
+            "filename": "uf100-01.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-010.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0100.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-01000.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0101.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0102.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0103.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0104.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0105.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0106.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0107.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0108.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0109.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-011.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0110.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0111.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0112.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0113.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0114.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0115.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0116.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0117.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "uf100-0118.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0119.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-012.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0120.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0121.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0122.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0123.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0124.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "uf100-0125.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0126.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0127.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0128.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0129.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-013.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0130.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0131.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0132.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0133.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0134.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0135.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0136.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0137.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0138.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0139.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-014.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0140.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0141.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0142.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0143.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0144.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0145.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0146.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0147.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0148.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0149.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-015.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0150.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0151.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0152.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0153.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0154.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0155.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0156.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0157.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0158.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0159.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-016.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0160.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0161.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0162.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0163.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0164.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0165.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0166.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0167.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0168.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0169.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-017.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0170.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0171.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0172.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0173.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0174.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0175.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "uf100-0176.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0177.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0178.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0179.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-018.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0180.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0181.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0182.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0183.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0184.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0185.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0186.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0187.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0188.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0189.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-019.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0190.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0191.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0192.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0193.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0194.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0195.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0196.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0197.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0198.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0199.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-02.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-020.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0200.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0201.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0202.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0203.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0204.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0205.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0206.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0207.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0208.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0209.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-021.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0210.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0211.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0212.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0213.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0214.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0215.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0216.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0217.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0218.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0219.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-022.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0220.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0221.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0222.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0223.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0224.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0225.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0226.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0227.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0228.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0229.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-023.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0230.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0231.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0232.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0233.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0234.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0235.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0236.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0237.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0238.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0239.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-024.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0240.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0241.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0242.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0243.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0244.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0245.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0246.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0247.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0248.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0249.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-025.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0250.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0251.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0252.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0253.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0254.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0255.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0256.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0257.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0258.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0259.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-026.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0260.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0261.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0262.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0263.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0264.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0265.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0266.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0267.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0268.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0269.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-027.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0270.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0271.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0272.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0273.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0274.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0275.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0276.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0277.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0278.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0279.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-028.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0280.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0281.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0282.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0283.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0284.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0285.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0286.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0287.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0288.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0289.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-029.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0290.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0291.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0292.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0293.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0294.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0295.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0296.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0297.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0298.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0299.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-03.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-030.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0300.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0301.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0302.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0303.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0304.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0305.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0306.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0307.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0308.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0309.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-031.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0310.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0311.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0312.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0313.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0314.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0315.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0316.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0317.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0318.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0319.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-032.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0320.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0321.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0322.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0323.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0324.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0325.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0326.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0327.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0328.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0329.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-033.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0330.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0331.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0332.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0333.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0334.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0335.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0336.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0337.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0338.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0339.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-034.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0340.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0341.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0342.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0343.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0344.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0345.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0346.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0347.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0348.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0349.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-035.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0350.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0351.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0352.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0353.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0354.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0355.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0356.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0357.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0358.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0359.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-036.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0360.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0361.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0362.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0363.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "uf100-0364.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0365.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0366.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0367.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0368.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0369.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-037.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0370.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0371.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0372.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0373.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0374.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0375.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0376.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0377.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0378.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0379.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-038.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0380.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0381.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0382.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0383.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0384.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0385.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0386.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0387.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0388.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0389.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-039.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0390.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0391.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0392.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0393.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0394.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0395.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0396.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0397.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0398.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0399.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-04.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-040.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0400.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0401.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0402.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0403.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0404.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0405.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0406.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0407.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0408.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0409.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-041.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0410.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0411.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0412.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0413.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0414.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0415.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0416.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0417.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0418.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0419.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-042.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0420.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0421.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0422.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0423.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0424.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0425.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0426.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0427.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0428.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0429.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-043.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0430.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0431.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0432.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0433.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0434.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0435.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0436.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0437.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0438.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0439.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-044.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0440.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0441.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0442.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0443.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0444.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0445.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0446.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0447.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0448.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0449.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-045.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0450.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0451.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0452.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0453.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0454.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0455.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0456.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0457.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0458.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0459.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-046.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0460.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0461.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0462.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0463.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0464.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0465.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0466.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0467.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0468.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0469.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-047.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0470.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0471.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0472.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0473.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0474.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0475.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0476.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0477.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0478.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0479.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-048.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0480.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0481.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0482.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0483.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0484.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0485.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0486.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0487.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0488.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0489.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-049.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0490.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0491.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0492.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0493.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0494.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0495.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0496.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0497.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0498.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0499.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-05.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-050.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0500.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0501.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0502.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0503.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0504.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0505.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0506.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0507.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0508.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0509.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-051.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0510.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0511.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0512.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0513.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0514.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0515.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0516.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0517.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0518.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0519.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-052.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0520.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0521.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0522.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0523.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0524.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0525.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0526.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0527.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0528.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0529.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-053.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0530.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0531.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0532.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0533.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0534.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0535.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0536.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0537.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0538.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0539.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-054.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0540.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0541.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0542.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0543.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0544.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0545.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0546.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0547.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0548.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0549.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-055.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0550.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0551.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0552.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0553.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0554.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0555.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0556.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0557.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0558.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0559.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-056.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0560.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0561.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0562.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0563.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0564.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0565.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0566.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0567.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0568.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0569.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-057.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0570.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0571.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0572.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0573.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0574.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0575.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0576.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0577.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0578.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0579.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-058.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0580.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0581.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0582.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0583.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0584.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0585.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0586.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0587.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0588.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0589.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-059.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0590.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0591.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0592.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0593.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0594.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0595.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0596.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0597.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0598.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0599.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-06.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-060.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0600.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0601.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0602.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0603.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0604.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0605.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0606.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0607.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0608.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0609.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-061.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0610.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0611.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0612.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0613.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0614.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0615.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0616.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0617.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0618.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0619.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-062.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0620.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0621.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0622.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0623.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0624.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0625.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0626.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0627.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0628.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0629.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-063.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0630.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0631.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0632.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0633.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0634.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0635.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0636.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0637.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0638.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0639.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-064.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0640.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0641.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0642.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0643.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0644.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0645.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0646.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0647.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0648.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0649.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-065.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0650.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0651.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0652.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0653.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0654.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0655.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0656.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0657.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0658.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0659.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-066.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0660.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0661.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0662.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0663.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0664.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0665.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0666.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0667.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0668.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0669.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-067.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0670.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0671.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0672.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0673.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0674.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0675.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0676.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0677.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0678.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "uf100-0679.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-068.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0680.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0681.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0682.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0683.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0684.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0685.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0686.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0687.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0688.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0689.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-069.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0690.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0691.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0692.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0693.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0694.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0695.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0696.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0697.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0698.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0699.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-07.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-070.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0700.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0701.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0702.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0703.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0704.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0705.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0706.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0707.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0708.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0709.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-071.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0710.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0711.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0712.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0713.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0714.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0715.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0716.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0717.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0718.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0719.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-072.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0720.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0721.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0722.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0723.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0724.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0725.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0726.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "uf100-0727.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0728.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0729.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-073.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0730.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0731.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0732.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "uf100-0733.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0734.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0735.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0736.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0737.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0738.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0739.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "uf100-074.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0740.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0741.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0742.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0743.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0744.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0745.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0746.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0747.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0748.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0749.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-075.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0750.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0751.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0752.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0753.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0754.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0755.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0756.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0757.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0758.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0759.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-076.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0760.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0761.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0762.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0763.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0764.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0765.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0766.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0767.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0768.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0769.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-077.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0770.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0771.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0772.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0773.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0774.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0775.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0776.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0777.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0778.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0779.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-078.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0780.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0781.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0782.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0783.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0784.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0785.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0786.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0787.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0788.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0789.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-079.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0790.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0791.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0792.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0793.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0794.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0795.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0796.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0797.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0798.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0799.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "uf100-08.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-080.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0800.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0801.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0802.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0803.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0804.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0805.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0806.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0807.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "uf100-0808.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0809.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-081.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0810.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0811.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0812.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0813.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0814.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0815.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0816.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0817.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0818.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0819.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-082.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0820.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0821.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0822.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0823.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0824.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0825.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0826.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0827.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0828.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0829.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-083.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0830.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0831.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0832.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0833.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0834.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0835.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0836.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0837.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0838.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0839.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-084.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0840.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0841.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0842.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0843.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0844.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0845.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0846.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0847.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0848.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0849.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-085.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0850.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0851.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0852.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0853.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0854.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0855.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0856.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0857.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0858.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0859.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-086.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0860.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0861.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0862.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0863.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0864.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0865.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0866.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0867.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0868.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0869.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-087.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0870.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0871.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0872.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0873.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0874.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0875.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0876.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0877.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0878.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0879.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-088.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0880.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0881.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0882.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0883.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0884.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0885.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0886.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0887.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0888.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0889.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-089.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0890.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0891.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0892.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0893.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0894.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0895.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0896.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0897.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0898.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0899.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-09.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-090.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0900.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0901.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0902.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0903.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0904.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0905.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0906.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0907.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0908.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0909.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-091.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0910.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0911.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0912.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0913.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0914.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0915.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0916.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0917.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0918.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0919.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-092.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0920.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0921.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0922.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0923.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0924.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0925.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0926.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0927.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0928.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0929.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-093.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0930.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0931.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0932.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0933.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0934.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0935.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0936.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0937.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0938.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0939.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-094.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0940.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0941.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0942.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0943.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0944.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0945.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0946.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0947.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0948.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0949.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-095.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0950.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0951.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0952.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0953.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0954.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0955.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0956.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0957.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0958.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0959.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-096.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0960.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0961.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0962.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0963.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0964.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0965.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0966.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0967.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0968.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0969.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-097.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0970.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0971.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0972.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0973.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0974.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0975.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0976.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0977.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0978.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0979.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-098.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0980.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0981.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0982.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0983.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0984.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0985.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0986.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0987.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0988.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0989.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-099.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0990.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0991.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0992.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0993.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "uf100-0994.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0995.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0996.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0997.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "uf100-0998.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "uf100-0999.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.14
+        }
+    ],
+    "summary": {
+        "SATISFIABLE": 1000,
+        "UNSATISFIABLE": 0,
+        "TIMEOUT": 0,
+        "total_files": 1000,
+        "average_time": 0.14,
+        "total_time": 136.19
+    }
+}

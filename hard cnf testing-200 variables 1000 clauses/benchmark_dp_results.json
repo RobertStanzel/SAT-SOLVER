@@ -1,0 +1,5012 @@
+{
+    "results": [
+        {
+            "filename": "dpll_fav_1.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_2.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_3.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.29
+        },
+        {
+            "filename": "dpll_fav_4.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_5.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_6.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_7.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_8.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_9.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_10.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_11.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_12.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_13.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_14.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_15.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_16.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_17.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_18.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_19.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_20.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_21.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_22.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_23.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_24.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_25.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_26.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_27.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_28.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_29.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_30.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_31.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_32.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_33.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_34.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_35.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_36.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_37.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_38.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_39.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_40.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_41.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_42.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_43.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_44.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_45.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_46.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_47.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_48.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_49.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_50.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_51.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_52.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_53.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_54.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_55.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_56.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_57.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_58.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_59.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_60.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_61.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_62.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_63.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_64.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_65.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_66.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_67.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_68.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_69.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_70.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_71.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_72.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_73.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_74.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_75.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_76.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_77.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_78.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_79.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_80.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_81.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_82.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_83.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_84.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_85.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_86.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_87.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_88.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_89.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_90.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_91.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_92.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_93.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_94.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_95.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_96.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_97.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_98.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_99.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_100.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_101.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_102.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_103.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_104.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_105.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_106.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_107.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_108.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_109.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_110.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_111.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_112.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_113.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_114.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_115.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_116.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_117.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_118.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_119.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_120.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_121.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_122.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_123.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_124.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_125.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_126.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_127.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_128.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_129.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_130.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_131.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_132.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_133.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_134.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_135.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_136.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_137.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_138.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_139.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_140.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_141.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_142.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_143.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_144.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_145.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_146.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_147.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_148.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_149.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_150.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_151.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_152.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_153.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_154.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_155.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_156.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_157.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_158.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_159.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_160.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_161.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_162.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_163.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_164.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_165.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_166.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_167.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_168.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_169.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_170.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_171.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_172.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_173.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_174.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_175.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_176.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_177.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_178.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_179.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_180.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_181.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_182.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_183.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_184.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_185.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_186.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_187.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_188.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_189.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_190.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_191.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_192.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_193.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_194.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_195.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_196.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_197.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_198.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_199.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_200.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_201.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_202.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_203.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_204.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_205.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_206.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_207.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_208.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_209.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_210.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_211.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_212.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_213.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_214.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_215.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_216.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_217.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_218.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_219.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_220.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_221.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_222.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_223.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_224.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_225.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_226.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_227.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_228.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_229.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_230.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_231.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_232.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_233.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_234.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_235.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_236.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_237.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_238.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_239.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_240.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_241.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_242.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_243.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_244.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_245.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_246.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_247.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_248.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_249.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_250.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_251.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_252.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_253.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_254.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_255.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_256.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_257.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_258.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_259.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_260.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_261.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_262.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_263.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_264.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_265.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_266.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_267.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_268.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_269.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_270.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_271.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_272.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_273.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_274.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_275.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_276.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_277.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_278.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_279.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_280.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_281.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_282.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_283.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_284.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_285.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_286.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_287.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_288.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_289.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_290.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_291.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_292.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_293.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_294.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_295.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_296.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_297.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_298.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_299.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_300.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_301.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_302.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_303.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_304.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_305.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_306.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_307.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_308.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_309.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_310.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_311.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_312.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_313.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_314.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_315.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_316.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_317.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_318.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_319.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_320.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_321.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_322.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_323.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_324.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_325.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_326.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_327.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_328.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_329.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_330.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_331.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_332.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_333.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_334.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_335.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_336.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_337.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_338.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_339.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_340.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_341.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_342.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_343.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_344.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_345.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_346.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_347.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_348.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_349.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_350.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_351.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_352.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_353.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_354.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_355.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_356.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_357.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_358.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_359.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_360.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_361.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_362.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_363.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_364.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_365.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_366.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_367.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_368.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_369.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_370.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_371.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_372.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_373.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_374.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_375.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_376.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_377.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_378.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_379.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_380.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_381.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_382.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_383.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.23
+        },
+        {
+            "filename": "dpll_fav_384.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_385.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_386.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_387.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_388.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_389.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_390.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_391.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_392.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_393.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_394.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_395.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_396.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_397.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_398.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_399.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_400.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_401.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_402.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_403.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_404.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_405.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_406.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_407.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_408.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_409.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_410.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_411.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_412.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_413.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_414.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_415.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_416.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_417.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_418.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_419.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_420.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_421.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_422.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_423.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_424.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_425.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_426.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_427.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_428.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_429.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_430.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_431.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_432.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_433.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_434.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_435.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_436.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_437.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_438.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_439.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_440.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_441.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_442.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_443.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_444.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_445.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_446.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_447.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_448.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_449.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_450.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_451.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_452.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_453.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_454.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_455.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_456.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_457.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_458.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_459.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_460.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_461.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_462.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_463.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_464.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_465.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_466.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_467.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_468.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_469.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_470.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_471.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_472.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_473.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_474.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_475.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_476.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_477.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_478.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_479.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_480.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_481.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_482.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_483.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_484.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_485.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_486.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_487.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_488.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_489.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_490.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_491.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_492.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_493.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_494.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_495.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_496.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_497.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_498.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_499.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_500.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_501.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_502.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_503.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_504.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_505.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_506.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_507.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_508.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_509.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_510.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_511.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_512.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_513.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_514.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_515.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_516.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_517.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_518.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_519.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_520.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_521.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_522.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_523.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_524.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_525.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_526.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_527.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_528.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_529.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_530.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_531.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_532.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_533.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_534.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_535.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_536.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_537.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_538.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_539.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_540.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_541.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_542.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_543.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_544.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_545.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_546.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_547.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_548.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_549.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_550.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_551.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_552.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_553.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_554.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_555.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_556.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_557.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_558.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_559.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_560.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_561.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_562.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_563.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_564.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_565.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_566.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_567.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_568.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_569.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_570.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_571.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_572.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_573.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_574.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_575.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_576.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_577.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_578.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_579.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_580.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_581.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_582.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_583.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_584.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_585.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_586.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_587.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_588.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_589.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_590.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_591.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_592.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_593.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_594.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_595.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_596.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_597.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_598.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_599.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_600.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_601.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_602.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_603.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_604.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.23
+        },
+        {
+            "filename": "dpll_fav_605.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_606.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_607.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_608.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_609.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_610.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_611.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_612.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_613.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_614.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_615.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_616.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_617.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_618.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_619.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_620.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_621.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_622.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_623.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_624.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_625.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_626.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_627.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_628.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_629.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_630.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_631.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_632.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_633.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_634.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_635.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_636.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_637.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_638.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_639.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_640.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_641.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_642.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_643.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_644.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_645.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_646.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_647.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_648.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_649.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_650.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_651.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_652.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_653.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_654.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_655.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_656.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_657.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_658.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_659.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_660.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_661.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_662.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_663.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_664.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_665.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_666.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_667.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_668.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_669.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_670.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_671.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_672.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_673.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_674.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_675.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_676.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_677.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_678.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_679.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_680.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_681.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_682.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_683.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_684.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_685.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_686.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_687.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_688.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_689.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_690.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_691.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_692.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_693.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_694.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_695.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_696.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_697.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_698.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_699.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_700.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_701.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_702.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_703.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_704.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_705.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_706.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_707.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_708.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_709.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_710.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_711.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_712.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_713.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_714.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_715.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_716.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_717.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_718.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_719.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_720.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_721.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_722.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_723.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_724.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_725.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_726.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_727.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.21
+        },
+        {
+            "filename": "dpll_fav_728.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_729.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_730.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_731.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_732.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_733.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_734.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_735.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_736.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_737.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_738.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_739.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_740.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_741.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_742.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_743.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_744.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_745.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_746.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_747.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_748.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_749.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_750.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_751.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_752.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_753.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_754.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_755.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_756.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_757.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_758.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_759.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.21
+        },
+        {
+            "filename": "dpll_fav_760.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_761.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_762.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_763.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_764.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_765.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_766.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_767.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_768.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_769.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_770.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_771.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_772.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_773.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_774.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_775.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_776.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_777.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_778.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_779.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_780.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_781.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_782.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_783.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_784.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_785.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_786.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_787.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_788.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_789.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_790.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_791.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_792.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_793.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_794.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_795.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.29
+        },
+        {
+            "filename": "dpll_fav_796.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_797.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.21
+        },
+        {
+            "filename": "dpll_fav_798.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_799.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_800.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_801.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_802.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_803.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_804.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_805.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_806.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_807.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_808.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_809.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_810.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_811.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_812.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_813.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_814.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_815.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_816.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_817.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_818.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_819.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_820.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_821.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_822.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_823.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_824.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_825.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_826.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_827.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_828.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_829.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_830.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_831.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_832.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_833.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_834.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_835.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_836.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_837.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_838.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_839.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_840.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_841.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_842.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_843.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_844.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_845.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_846.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_847.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_848.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_849.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_850.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_851.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_852.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_853.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_854.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_855.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_856.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_857.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_858.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_859.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_860.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_861.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_862.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_863.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_864.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_865.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_866.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_867.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_868.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_869.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_870.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_871.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_872.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_873.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_874.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_875.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_876.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_877.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_878.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_879.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_880.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_881.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_882.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_883.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_884.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_885.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_886.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_887.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_888.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_889.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_890.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_891.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.22
+        },
+        {
+            "filename": "dpll_fav_892.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_893.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_894.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_895.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_896.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_897.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_898.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_899.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_900.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_901.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_902.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_903.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_904.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_905.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_906.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_907.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_908.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_909.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_910.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_911.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_912.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_913.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_914.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_915.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_916.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_917.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_918.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_919.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_920.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_921.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_922.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_923.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_924.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_925.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.19
+        },
+        {
+            "filename": "dpll_fav_926.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_927.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_928.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_929.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_930.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_931.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_932.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_933.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_934.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.25
+        },
+        {
+            "filename": "dpll_fav_935.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.2
+        },
+        {
+            "filename": "dpll_fav_936.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_937.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_938.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_939.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_940.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.17
+        },
+        {
+            "filename": "dpll_fav_941.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_942.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_943.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.13
+        },
+        {
+            "filename": "dpll_fav_944.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_945.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_946.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_947.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_948.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_949.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_950.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_951.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_952.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_953.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_954.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_955.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_956.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_957.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_958.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_959.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_960.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_961.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_962.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_963.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_964.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_965.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_966.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_967.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_968.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.18
+        },
+        {
+            "filename": "dpll_fav_969.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.14
+        },
+        {
+            "filename": "dpll_fav_970.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_971.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_972.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_973.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_974.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_975.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_976.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_977.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_978.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_979.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_980.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.15
+        },
+        {
+            "filename": "dpll_fav_981.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_982.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_983.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_984.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_985.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_986.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_987.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_988.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_989.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_990.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_991.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_992.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_993.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_994.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.12
+        },
+        {
+            "filename": "dpll_fav_995.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.11
+        },
+        {
+            "filename": "dpll_fav_996.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_997.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_998.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        },
+        {
+            "filename": "dpll_fav_999.cnf",
+            "status": "UNSATISFIABLE",
+            "time": 0.1
+        },
+        {
+            "filename": "dpll_fav_1000.cnf",
+            "status": "SATISFIABLE",
+            "time": 0.16
+        }
+    ],
+    "summary": {
+        "SATISFIABLE": 503,
+        "UNSATISFIABLE": 497,
+        "TIMEOUT": 0,
+        "total_files": 1000,
+        "average_time": 0.14,
+        "total_time": 139.16
+    }
+}

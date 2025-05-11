@@ -1,0 +1,9 @@
+c UNSAT: contradiction in C, D and E exclusive
+p cnf 5 7
+1 0
+2 0
+-1 -2 0
+3 0
+-3 0
+4 5 0
+-4 -5 0

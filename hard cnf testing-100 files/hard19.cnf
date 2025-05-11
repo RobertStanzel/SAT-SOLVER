@@ -1,0 +1,7 @@
+c UNSAT: All must be true, but then one must be false
+p cnf 6 5
+1 0
+2 0
+3 0
+4 0
+-1 -2 -3 -4 0

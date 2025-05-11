@@ -1,0 +1,3 @@
+This is a repository that contains sat solving algorithms(solved in python) and testing formulas written in dimacs form SAT SOLVING ALGORITHMS: -Resolution -Davis-Putnam(DP) -Davis–Putnam–Logemann–Loveland(DPLL)
+
+For the testing part of the program, download the solving algorithms along with the benchmark algorithms, and update the path in them accordingly , this is just an example of what a path looks like: ("C:\Users[YourUsername][PLACEHOLDER][ProjectFolder][SAT-SOLVING][DESIRED TESTING FOLDER]") ,to get the path of the folder simply right click on it and copy as path,make sure to use double slash as python can interpretate "" as a character
